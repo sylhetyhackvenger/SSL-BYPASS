@@ -1,0 +1,2 @@
+# Nenhuma dependência externa; só biblioteca padrão Python 3.
+# Termux: pkg install python openjdk-17
