@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./assets/banner.png" alt="SSLBPS Banner" width="100%">
-</p><h1 align="center">⚡ SSLBPS Research Framework ⚡</h1><p align="center">
+</p><h1 align="center">⚡ SSLBYPASS Research Framework ⚡</h1><p align="center">
 Android Application Security Research • Static Analysis • Educational Reverse Engineering
 </p><p align="center">
 <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700">
